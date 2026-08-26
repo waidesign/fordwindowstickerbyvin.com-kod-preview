@@ -1,0 +1,6 @@
+{
+  "name": "Ford Window Sticker by VIN",
+  "description": "Lookup and generate original Ford factory window stickers (Monroney labels) by VIN, license plate, or year/make/model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
